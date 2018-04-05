@@ -30,7 +30,4 @@ function makeInt(a){
   parseInt(a ,10)
 }
 
-function makeInt(a){
-  parseInt(a ,10)
-}
-
+parseInt('a', 10)
