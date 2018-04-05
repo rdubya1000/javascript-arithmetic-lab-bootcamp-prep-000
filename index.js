@@ -26,5 +26,5 @@ function dec(a){
   return -- a 
 }
 
-
+parseInt(a, 10)
 
