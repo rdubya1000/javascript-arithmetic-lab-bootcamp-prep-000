@@ -1,4 +1,6 @@
 var a = 1;
 var b = 2;
 
-function
+function beforeEach(){
+  return a + b
+}
