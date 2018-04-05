@@ -1,5 +1,5 @@
 var a = Math.floor(Math.random() * 1000);
-var b = 2;
+var b = Math.floor(Math.random() * 1000)2;
 
 function beforeEach(){
   return a + b
