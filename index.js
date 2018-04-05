@@ -22,7 +22,7 @@ function inc(a){
   return ++ a 
 }
 
-function inc(b){
+function dec(a){
   return -- a 
 }
 
